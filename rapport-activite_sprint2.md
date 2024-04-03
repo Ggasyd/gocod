@@ -2,8 +2,6 @@
 
 **Date : 19/11/2023**
 
-**Participants : ABDOULAYE Izedine, ADEROMOU Ariel, GAGNON Gasyd, SEFOU IBIKOUNLE Anifath**
-
 **Objectifs :**
 
 - **Compléter les fonctions CRUD dans le back-end :**
